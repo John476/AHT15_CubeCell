@@ -2,8 +2,8 @@
 #define _ADAFRUIT_AHTX0_H
 
 #include <Arduino.h>
-#include "D:\Arduino_project\AHT15\aht4\Adafruit_BusIO_Register.h"
-#include "D:\Arduino_project\AHT15\aht4\Adafruit_I2CDevice.h"
+#include "Adafruit_BusIO_Register.h"
+#include "Adafruit_I2CDevice.h"
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 
