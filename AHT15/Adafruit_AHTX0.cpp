@@ -1,6 +1,6 @@
 #include <Arduino.h>
 
-#include "D:\Arduino_project\AHT15\aht4\Adafruit_AHTX0.h"
+#include "Adafruit_AHTX0.h"
 
 /*!
  *    @brief  Instantiates a new AHTX0 class
