@@ -1,10 +1,8 @@
-#include "D:\Arduino_project\AHT15\aht4\Adafruit_AHTX0.h"
+#include "Adafruit_AHTX0.h"
 
 Adafruit_AHTX0 aht;
 
 void setup() {
-  pinMode(GPIO6, OUTPUT);
-  digitalWrite(GPIO6, LOW);  
   Serial.begin(115200);
   Serial.println("Adafruit AHT10/AHT20 demo!");
 
