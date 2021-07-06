@@ -1,4 +1,4 @@
-#include "D:\Arduino_project\AHT15\aht4\Adafruit_BusIO_Register.h"
+#include "Adafruit_BusIO_Register.h"
 
 Adafruit_BusIO_Register::Adafruit_BusIO_Register(Adafruit_I2CDevice *i2cdevice,
                                                  uint16_t reg_addr,
